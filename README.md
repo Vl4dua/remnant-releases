@@ -3,7 +3,7 @@
 > **"Nothing left behind."**  
 > Complete Windows application uninstaller, orphan trace hunter, and system storage optimizer.
 
-[![Release](https://img.shields.io/badge/release-v1.0.0-gold.svg)](https://github.com/Vl4dua/remnant-releases/releases/latest)
+[![Release](https://img.shields.io/badge/release-v1.2.0-gold.svg)](https://github.com/Vl4dua/remnant-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64)-blue.svg)]()
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)]()
 
@@ -34,8 +34,8 @@ Download the latest version from the [**Releases Page**](https://github.com/Vl4d
 
 | Package | Description | Link |
 | :--- | :--- | :--- |
-| **Installer (.exe)** | Recommended. Includes automatic desktop shortcuts and silent in-app updates. | [Download Setup](https://github.com/Vl4dua/remnant-releases/releases/latest/download/REMNANT-Setup-v1.0.0.exe) |
-| **Portable (.zip)** | Standalone portable archive. Unpack and run without installing. | [Download ZIP](https://github.com/Vl4dua/remnant-releases/releases/latest/download/REMNANT-v1.0.0-Portable-win-x64.zip) |
+| **Installer (.exe)** | Recommended. Includes automatic desktop shortcuts and silent in-app updates. | [Download Setup](https://github.com/Vl4dua/remnant-releases/releases/latest/download/REMNANT-Setup-v1.2.0.exe) |
+| **Portable (.zip)** | Standalone portable archive. Unpack and run without installing. | [Download ZIP](https://github.com/Vl4dua/remnant-releases/releases/latest/download/REMNANT-v1.2.0-Portable-win-x64.zip) |
 
 ---
 
